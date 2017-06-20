@@ -1,0 +1,56 @@
+﻿.dg {
+    width:100%;
+    height:500px;
+}
+.cp {
+    width:80%;
+    height:500px;
+    padding-left:15%;
+    padding-top:-30px;
+}
+.img {
+    width:30%;
+    height:55%;
+    float:left;
+    margin-right:10%;
+}
+.nr {
+    width:90%;
+    height:100%;
+    padding-top:20px;
+}
+.name {
+    font-size:24px;
+    padding-bottom:20px;
+}
+.menu {
+    font-size:18px;
+    padding-bottom:20px;
+}
+.cb {
+    font-size:14px;
+    padding-bottom:20px;
+}
+.jg {
+    font-size:15px;    
+    background-color:#778899;
+    width:40%;
+    margin-left:44%;
+    height:40px;
+    padding-top:8px;
+}
+.btt {
+    width:100%;
+    margin-left:44%;
+    margin-top:35px;    
+    height:60px;  
+}
+.btt_gw{
+    width:15%;
+    height:80%;    
+}
+.btt_dd{
+    width:30%;
+    height:80%;
+    margin-top:20px;
+}
